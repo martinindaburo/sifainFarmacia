@@ -1,6 +1,6 @@
 # sifainFarmacia
 Aplicación para gestionar la facturación e inventario de una droguería, farmacia o expendio de medicamentos.
-## Funcioalidad
+## Funcionalidad
 - Ingreso, edición y consulta de datos de *PRODUCTOS*
 - Ingreso, edición y consulta de datos de *CLIENTES*
 - Ingreso, edición y consulta de datos de *PROVEEDORES*
